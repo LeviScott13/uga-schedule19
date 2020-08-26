@@ -1,0 +1,124 @@
+.scores{
+    margin: 0px;
+    width: 100%;
+    overflow: hidden;
+}
+.flagContainer{
+    margin: 0px;
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+}
+.flag{
+    margin: 0px;
+    width: 50%;
+    background-color: white;
+    border-bottom: 5px solid #BA0C2F;
+    float: left;
+}
+.georgia{
+    background-color: #BA0C2F;
+    border-bottom: 5px solid black;
+    color: white;
+    text-shadow: 1px 1px 1px #000, 2px 2px 2px black;;
+    width: 50%;
+    float: left;
+}
+.vanderbilt{
+    background-color: black;
+    border-bottom: 5px solid #D8AB4C;
+    color: #D8AB4C;
+    width: 50%;
+    float: left;
+}
+.murray{
+    background-color: #002144;
+    border-bottom: 5px solid #ECAC00;
+    color: #ECAC00;
+    width: 50%;
+    float: left;
+}
+.arkansaSt{
+    background-color: #1a1a1a;
+    border-bottom: 5px solid #CC092F;
+    color: #CC092F;
+    width: 50%;
+    float: left;
+}
+.nd{
+    background-color: #0C2340;
+    border-bottom: 5px solid #00843D;
+    color: #AE9142;
+    width: 50%;
+    float: left;
+}
+.vols{
+    background-color: #58595B;
+    border-bottom: 5px solid #FF8200;
+    color: #FF8200;
+    width: 50%;
+    float: left;
+}
+.sc{
+    background-color: black;
+    border-bottom: 5px solid #73000A;
+    color: #73000A;
+    width: 50%;
+    float: left;
+}
+.kentucky{
+    background-color: black;
+    border-bottom: 5px solid #0033A0;
+    color: white;
+    width: 50%;
+    float: left;
+}
+.florida{
+    background-color: #0021A5;
+    border-bottom: 5px solid #FA4616;
+    color: #FA4616;
+    width: 50%;
+    float: left;
+}
+.missou{
+    background-color: black;
+    border-bottom: 5px solid #F1B82D;
+    color: #F1B82D;
+    width: 50%;
+    float: left;
+}
+.auburn{
+    background-color: #0C2340;
+    border-bottom: 5px solid #E87722;
+    color: #E87722;
+    width: 50%;
+    float: left;
+}
+.texam{
+    background-color: black;
+    border-bottom: 5px solid #500000;
+    color: white;
+    width: 50%;
+    float: left;
+}
+.gatech{
+    background-color: #B3A369;
+    border-bottom: 5px solid #003057;
+    color: #003057;
+    width: 50%;
+    float: left;
+}
+.lsu{
+    background-color: #461D7C;
+    border-bottom: 5px solid #FDD023;
+    color: #FDD023;
+    width: 50%;
+    float: left;
+}
+.baylor{
+    background-color: #FFB81C;
+    border-bottom: 5px solid #154734;
+    color: #154734;
+    width: 50%;
+    float: left;
+}

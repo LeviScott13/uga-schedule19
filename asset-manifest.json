@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/uga-schedule19/static/css/main.2ee46f4e.chunk.css",
+    "main.js": "/uga-schedule19/static/js/main.28d225ab.chunk.js",
+    "main.js.map": "/uga-schedule19/static/js/main.28d225ab.chunk.js.map",
+    "runtime-main.js": "/uga-schedule19/static/js/runtime-main.d4382db0.js",
+    "runtime-main.js.map": "/uga-schedule19/static/js/runtime-main.d4382db0.js.map",
+    "static/js/2.a12517f4.chunk.js": "/uga-schedule19/static/js/2.a12517f4.chunk.js",
+    "static/js/2.a12517f4.chunk.js.map": "/uga-schedule19/static/js/2.a12517f4.chunk.js.map",
+    "index.html": "/uga-schedule19/index.html",
+    "precache-manifest.be6423b50c503ec93b7462e8fe712aeb.js": "/uga-schedule19/precache-manifest.be6423b50c503ec93b7462e8fe712aeb.js",
+    "service-worker.js": "/uga-schedule19/service-worker.js",
+    "static/css/main.2ee46f4e.chunk.css.map": "/uga-schedule19/static/css/main.2ee46f4e.chunk.css.map",
+    "static/js/2.a12517f4.chunk.js.LICENSE.txt": "/uga-schedule19/static/js/2.a12517f4.chunk.js.LICENSE.txt",
+    "static/media/arkSt.png": "/uga-schedule19/static/media/arkSt.453f2d03.png",
+    "static/media/auburn.png": "/uga-schedule19/static/media/auburn.3eb5089a.png",
+    "static/media/baylor.png": "/uga-schedule19/static/media/baylor.c0f856b4.png",
+    "static/media/florida.png": "/uga-schedule19/static/media/florida.64857817.png",
+    "static/media/gatech.png": "/uga-schedule19/static/media/gatech.60777ad7.png",
+    "static/media/lsu.jpg": "/uga-schedule19/static/media/lsu.4bbc4ca9.jpg",
+    "static/media/missouri.png": "/uga-schedule19/static/media/missouri.ce7e8c8d.png",
+    "static/media/murray.png": "/uga-schedule19/static/media/murray.120fb473.png",
+    "static/media/nd.png": "/uga-schedule19/static/media/nd.d499bc4e.png",
+    "static/media/index.css": "/uga-schedule19/static/media/sanford.604f74ab.jpg",
+    "static/media/sc.png": "/uga-schedule19/static/media/sc.97880596.png",
+    "static/media/texam.png": "/uga-schedule19/static/media/texam.1e57e0ba.png",
+    "static/media/uga.png": "/uga-schedule19/static/media/uga.c74fe0e6.png",
+    "static/media/vandy.png": "/uga-schedule19/static/media/vandy.3b70ff0e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4382db0.js",
+    "static/js/2.a12517f4.chunk.js",
+    "static/css/main.2ee46f4e.chunk.css",
+    "static/js/main.28d225ab.chunk.js"
+  ]
+}
